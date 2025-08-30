@@ -4,7 +4,7 @@ DiReCT is a **diagnostic knowledge graph and intelligent retrieval system** desi
 It leverages **NLP, knowledge graph techniques, and semantic search** to provide healthcare professionals with accurate and structured diagnostic information.  
 
 ---
-![image alt]()
+![image alt](https://github.com/AlishbaNazir/RAG-Clinical-Notes-Summarizer/blob/main/ChatGPT%20Image%20Aug%2031,%202025,%2001_04_01%20AM.png?raw=true)
 ---
 ## 🚀 Features  
 - 📑 **Document Processing** – Handles structured & unstructured medical documents.  
