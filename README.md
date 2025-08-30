@@ -17,7 +17,7 @@ It leverages **NLP, knowledge graph techniques, and semantic search** to provide
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, FAISS, NetworkX, PyTorch/TensorFlow (if applied), Scikit-learn  
+- **Libraries:** Pandas, NumPy, FAISS, NetworkX, PyTorch/TensorFlow, Scikit-learn  
 - **Frameworks:** Flask / Streamlit  
 - **Data:** Medical diagnostic documents (`finished_data.csv`, `diagnostic_kg_data_flattened.xlsx`)  
 
